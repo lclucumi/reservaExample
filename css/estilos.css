@@ -1,0 +1,16 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.btn-reservar {
+  background: #fed12f;
+}
+
+.btn-reservar:hover {
+  background: #ffdcaa;
+}
